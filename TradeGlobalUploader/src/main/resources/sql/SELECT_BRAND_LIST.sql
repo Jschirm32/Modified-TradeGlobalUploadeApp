@@ -1,0 +1,1 @@
+select * from Test_TGupload where uploadIndex=0

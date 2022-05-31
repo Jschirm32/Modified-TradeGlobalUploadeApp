@@ -1,0 +1,1 @@
+select SKU_ID,Name_Prod as Name,Description_Prod as Description,Title,Keywords,Specs,Color,CountryOfOrigin,Gender,Material,UOMSize,Brand,Length_Prod as Length,Width,Height,UOMWeight,Weight_Prod as Weight,HarmonizedTariffCode,ImageURL,MerchantStyle,ciDesc1,ciDesc2,ciDesc3,isMasterProduct,UseBagPaddedMailer,isHazmat from Test_TGupload where uploadIndex=0 and Brand= ':#BRAND_NAME'
